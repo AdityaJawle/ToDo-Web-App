@@ -1,4 +1,4 @@
-# ToDo Web App
+![Screenshot (137)](https://github.com/user-attachments/assets/8acf67c9-601b-420b-b911-d33f03620573)# ToDo Web App
 
 A simple, yet professional, ToDo application for software developers. This application helps you manage your daily tasks, from coding tasks to project management activities. The app allows you to add, edit, mark tasks as completed, and search through them based on different categories like title, status, and date.
 
@@ -64,31 +64,33 @@ Follow these steps to set up the project locally:
 
 This To-Do Management Application provides an efficient and user-friendly way to manage your tasks with the following core features:
 
-  ![Screenshot (135)](https://github.com/user-attachments/assets/d7891521-1061-470f-a723-6af1070f8f74)
+  ![Screenshot (135)](https://github.com/user-attachments/assets/5073c9af-a37c-4939-9128-2191a7b11a86)
 
 1. **View All Tasks**: Display all tasks in a structured list, showing task details like title, date, and status.
 
-  ![Screenshot (144)](https://github.com/user-attachments/assets/4ca3f6b6-cfad-4dc7-b150-9552ba17bb2c)
+  ![Screenshot (144)](https://github.com/user-attachments/assets/e3e63e0a-3b9a-4505-96bb-caee711b15b2)
 
 2. **Add New Task**: Seamlessly add new tasks with relevant details such as title, date, and current status.
 
-  ![Screenshot (138)](https://github.com/user-attachments/assets/e3489781-55c2-4d4d-bc1a-187c5f04ebdf)
-  ![Screenshot (137)](https://github.com/user-attachments/assets/a918f611-4fff-46af-9582-e0ccdaf3e289)
-  ![Screenshot (136)](https://github.com/user-attachments/assets/76f89c51-1ce1-4642-84f6-38ed1be30064)
+  ![Screenshot (136)](https://github.com/user-attachments/assets/b3b20198-299c-4416-9128-6490dd442a04)
+  ![Screenshot (137)](https://github.com/user-attachments/assets/d76f32d7-eeef-45f6-b89d-510703635267)
+  ![Screenshot (138)](https://github.com/user-attachments/assets/18351318-e053-422f-8fe1-22f1b6f53caa)
 
 3. **Filter Tasks by Category**: Filter tasks based on specific categories (e.g., title, date, or status) to quickly find what you're looking for.
 
-   ![Screenshot (142)](https://github.com/user-attachments/assets/5b99ca8b-b7d7-40a0-9693-9d5fb625acf9)
-   ![Screenshot (143)](https://github.com/user-attachments/assets/349a5b44-9bb9-4542-bcd7-a48e614d3664)
+   ![Screenshot (142)](https://github.com/user-attachments/assets/7405bc3c-c837-4228-b2c8-6e1883de55b6)
+    ![Screenshot (143)](https://github.com/user-attachments/assets/4637424a-f31d-4ec3-b178-264c38ff470c)
+
 
 4. **Edit Task**: Update the details of an existing task, including modifying the title, date, or status to reflect any changes.
 
-   ![Screenshot (145)](https://github.com/user-attachments/assets/979fc243-2c97-4c7f-8923-74cb13fdd83a)
-   ![Screenshot (146)](https://github.com/user-attachments/assets/936f41da-9ec1-4e5d-9455-7e42678ade55)
+   ![Screenshot (145)](https://github.com/user-attachments/assets/d072840d-73d0-4d2e-b9e8-afaa49dc62b2)
+   ![Screenshot (146)](https://github.com/user-attachments/assets/f783392d-b028-4df5-924e-ea913e70da1b)
+
 
 6. **Delete Task**: Easily remove tasks from the list that are no longer needed or completed.
 
-   ![Screenshot (148)](https://github.com/user-attachments/assets/4214f15d-90c8-4254-b713-e320c540bf05)
+   ![Screenshot (148)](https://github.com/user-attachments/assets/b4620608-5586-4bf4-a6d5-8206e0a783d5)
 
 7. **Mark Task as Completed**: Update the status of tasks to 'Completed' once finished, keeping your list organized and up-to-date.
 
