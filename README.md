@@ -1,5 +1,4 @@
-![Screenshot (137)](https://github.com/user-attachments/assets/8acf67c9-601b-420b-b911-d33f03620573)# ToDo Web App
-
+# ToDo Web App
 A simple, yet professional, ToDo application for software developers. This application helps you manage your daily tasks, from coding tasks to project management activities. The app allows you to add, edit, mark tasks as completed, and search through them based on different categories like title, status, and date.
 
 ## Features
